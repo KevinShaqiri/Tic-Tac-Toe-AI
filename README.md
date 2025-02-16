@@ -5,7 +5,7 @@
 This project explores two different AI approaches to playing Tic-Tac-Toe:
 
 1. **Supervised Learning using Minimax**: A neural network trained on Minimax-generated data.
-2. **Reinforcement Learning (Deep Q-Network - DQN)**: An AI that learns to play through self-play and Q-learning.
+2. **Reinforcement Learning (DQN)**: An AI that learns to play through self-play and Q-learning.
 
 ## Comparison
 
